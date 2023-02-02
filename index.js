@@ -11,6 +11,7 @@ function runProgram(input) {
       arr1.push(eng);
       arr2.push(dis);
   }
+//   
           let end = tc
           let start = 0
           let teng = 0
