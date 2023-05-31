@@ -64,10 +64,6 @@ If you have any improvements or suggestions for solving the Marathon Energy Drin
 
 Please ensure that any contributions adhere to the existing code style and follow good software development practices.
 
-## 📝 License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code for both commercial and non-commercial purposes.
-
 ## 🙏 Acknowledgments
 
 - This problem is a common type of DSA question, and the solution provided here is a general approach. Different optimizations or variations
