@@ -11,7 +11,7 @@ Assuming that you start the marathon with no energy, your goal is to determine t
 ## 💡 Solution Approach
 
 To solve this problem efficiently, we can use the concept of prefix sums or cumulative sums. The idea is to calculate the total energy at each starting point by accumulating the energy from the energy drinks encountered so far. 🧮💡
-
+ 
 Here's the general approach to find the optimal starting point:
 
 1. Calculate the total energy required to complete the marathon by summing up the distances between all starting points. 📏🔋
