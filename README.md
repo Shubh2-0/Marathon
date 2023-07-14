@@ -50,7 +50,7 @@ To use the solution provided in this repository, you can follow these steps:
 
    ```
    node solution.js
-   ```
+   ``` 
 
 7. The code will execute, and the output will be displayed in the console, indicating the optimal starting point for the marathon.
 
